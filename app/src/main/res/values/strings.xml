@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Medium</string>
+    <string name="hello">Olá %s</string>
+</resources>
